@@ -5,6 +5,7 @@ using System.Text;
 namespace DotNetMotors.Classes
 {
     class Land
-    {
+    
+
     }
 }
